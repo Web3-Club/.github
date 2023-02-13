@@ -8,4 +8,4 @@
 <br>
 <br>
 联系方式：web3club@email.cn<br>
-赞助：***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb***
+赞助我们：***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb***
