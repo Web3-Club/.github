@@ -9,6 +9,6 @@ Here, we hope to join hands with all friends who are interested in the future of
 
 Contact information: web3club@email.cn <br>
 
-Sponsor us: 0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb <br>
+Sponsor us: ***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb*** <br>
 
 ## Thank you for your support and recognition, which will make us better in the future!
