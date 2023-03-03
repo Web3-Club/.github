@@ -1,4 +1,5 @@
 # Web3 Club @🇨🇳
+## English Ver.
 This is the China Web3 Club, established on February 7, 2023.<br>
 (Maybe, and I hope the future will be) the earliest Web3 community in China.<br>
 The original intention of our establishment is because the founder, [Yanbo](https://github.com/yanboishere), suffers from the relative lack of knowledge sharing content of Web3 and blockchain engineers in the Chinese Internet.<br>
