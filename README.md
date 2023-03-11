@@ -17,10 +17,12 @@
 创造出更美好的Web3未来前景。
 <br>
 <br>
-联系方式：web3club@email.cn<br>
+### 联系方式：web3club@email.cn<br>
 <br>
-[申请加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md) <br>
+## 我们的频道
+### [知乎](https://www.zhihu.com/people/web3club)
+### [申请加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md) <br>
 <br>
-[赞助我们](https://github.com/Web3-Club/Sponsor)：***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb***
+### [赞助我们](https://github.com/Web3-Club/Sponsor)：***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb***
 
 ## 感谢你们的支持和认可，这会让我们未来变得更好！
