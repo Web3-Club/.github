@@ -31,7 +31,9 @@
 
 
 ## [申请加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md) 
+
 <a href="https://github.com/Web3-Club/Intro./blob/main/Join%20club.md" target=_blank>
+  
 <img alt="Join us" src="https://user-images.githubusercontent.com/76860915/224472267-3feb727c-a6ef-4db2-91d9-23de841b6f59.png)">
 
 <br>
