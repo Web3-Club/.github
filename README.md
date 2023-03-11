@@ -26,8 +26,6 @@
 
 ### [知乎](https://www.zhihu.com/people/web3club)
 
-<br>
-
 ### [申请加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md) 
 
 <br>
