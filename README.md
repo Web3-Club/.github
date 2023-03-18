@@ -17,6 +17,8 @@
 创造出更美好的Web3未来前景。
 <br>
 <br>
+## 视频介绍
+[中国Web3协会介绍视频｜一个Web3中文知识分享组织的自白](https://www.bilibili.com/video/BV1CT411a7Zs/)
 ### 联系方式：web3club@email.cn<br>
 <br>
 
