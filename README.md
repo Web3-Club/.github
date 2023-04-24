@@ -44,7 +44,7 @@
 
 
 
-## [申请加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md) 
+# [申请加入我们](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md) 
 
 <a href="https://github.com/Web3-Club/Intro./blob/main/Join%20club.md" target=_blank>
   
