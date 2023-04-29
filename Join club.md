@@ -1,5 +1,7 @@
 # 申请加入我们
-发邮件到web3clubCN@outlook.com，回答以下问题：
+填写[表单](https://forms.gle/xppaWH2i18LiR7hF9) 
+
+或 发邮件到web3clubCN@outlook.com，回答以下问题：
 <br>
 <br>
 1.发送你的联系方式（微信、Telegram），GitHub主页链接。
