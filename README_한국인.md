@@ -9,7 +9,7 @@
 여기에서 우리는 Web3의 미래에 관심을 갖고 "기여"하고자 하는 모든 친구들과 손을 잡고,<br>
 Web3의 더 나은 미래 전망을 만드십시오.<br>
 
-연락처: web3club@email.cn
+연락처: web3clubCN@outlook.com
 
 후원: ***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb***
 
