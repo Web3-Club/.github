@@ -8,7 +8,7 @@ In order to change this status quo, it is hoped that the Chinese knowledge conte
 The purpose of the community is : **To always focus on the progress of knowledge and technology, not the price.** <br>
 Here, we hope to join hands with all friends who are interested in the future of Web3 and want to "contribute to it",Create a better future prospect of Web3.
 
-Contact information: web3club@email.cn <br>
+Contact information: web3clubCN@outlook.com <br>
 
 Sponsor us: ***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb*** <br>
 
