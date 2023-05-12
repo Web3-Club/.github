@@ -9,7 +9,7 @@
 ここで、Web3の未来に興味を持ち、「貢献したい」と願うすべての仲間と手を取り合い、<br>
 Web3 のより良い将来展望を作成します。<br>
 
-連絡先情報: web3club@email.cn<br>
+連絡先情報: web3clubCN@outlook.com<br>
 
 スポンサー: ***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb***<br>
 
