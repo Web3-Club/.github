@@ -37,6 +37,9 @@
 
 ### [Twitter](https://twitter.com/Web3ClubCN)
 
+### [Bilibili](https://b23.tv/wMGbq3K)
+
+
 ## 我们的未来项目计划
 [Future](https://github.com/Web3-Club/Future.)
 
