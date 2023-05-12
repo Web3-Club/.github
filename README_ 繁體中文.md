@@ -9,7 +9,9 @@
 在此，我們希望為所有的對Web3未來感興趣和慾為其“添磚加瓦”的朋友們一起,<br>
 創造出更美好的Web3未來前景。<br>
 
-聯繫方式：web3club@email.cn<br>
+聯繫方式：web3clubCN@outlook.com
+
+<br>
 
 申請[加入我們](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md)<br>
 
