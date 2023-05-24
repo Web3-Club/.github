@@ -7,7 +7,7 @@
 
 ### 简体中文｜[繁體中文](https://github.com/Web3-Club/Intro./blob/main/README_%20%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.md)｜[English](https://github.com/Web3-Club/Intro./blob/main/README_English.md)｜[日本語](https://github.com/Web3-Club/Intro./blob/main/README_%E6%97%A5%E6%9C%AC%E8%AA%9E.md)｜[한국인](https://github.com/Web3-Club/Intro./blob/main/README_%ED%95%9C%EA%B5%AD%EC%9D%B8.md)
 
-这里是中国Web3知识协会，成立于2023年2月7日。<br>
+这里是Web3Club，成立于2023年2月7日。<br>
 （也许是，也希望未来是）中国最早的Web3知识社群。<br>
 <br>
 我们建立的初衷 是因为创始人 [烟波](https://github.com/yanboishere) ，当时在大学一年级期间 想了解Web3相关内容，苦于 中文互联网中的 Web3 相关知识分享内容相对较少，
