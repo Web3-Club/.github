@@ -15,6 +15,6 @@
 
 申請[加入我們](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md)<br>
 
-贊助我們：***0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb***<br>
+贊助我們：***0x663D5Dafe4362927E6dab344e8953b0Ad4439d3F***<br>
 
 ## 感謝你們的支持和認可，這會讓我們未來變得更好！
