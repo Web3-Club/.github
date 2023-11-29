@@ -57,7 +57,7 @@
 <a href="https://github.com/Web3-Club/Intro./blob/main/Join%20club.md" target=_blank>
   
 # 商务合作 & 加入我们的交流群
-WeChat ID: YanboTravelAllWorld
+WeChat ID: YanboAtWeb3
 
 <br>
 <br>
