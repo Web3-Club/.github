@@ -40,16 +40,29 @@
 ## 我们的未来项目计划
 [Future](https://github.com/Web3-Club/Future.)
 
+
+## 💐 赞助我们 
+### 通过Donate3
+
+
+<a href="https://www.donate3.xyz/donateTo?cid=bafkreif5ecvwp7vanir2geib43nws7zvaac46rvlryzwwm47knutcv6xee" target="_blank"><img src="https://www.donate3.xyz/Donate3ToMe.svg" alt="Donate3 To Me"></a>
+
+您的钱包地址将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
+**感谢您对我们社区未来健康发展所作出的支持!**
+
+
+
+# [](https://github.com/Web3-Club/Intro./blob/main/Join%20club.md) 
+
+<a href="https://github.com/Web3-Club/Intro./blob/main/Join%20club.md" target=_blank>
+  
 # 商务合作 & 加入我们的交流群
-WeChat ID: YanboTravelAllWorld
+WeChat ID: YanboAtWeb3
 
 <br>
 <br>
-
-## [赞助我们](https://github.com/Web3-Club/Sponsor)：***0x663D5Dafe4362927E6dab344e8953b0Ad4439d3F***
 
 ## 感谢各位的支持和认可，这会让我们未来变得更好！
   
   
- 
  
