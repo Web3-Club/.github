@@ -61,8 +61,6 @@ WeChat ID: YanboAtWeb3
 
 <br>
 <br>
-
-## 感谢各位的支持和认可，这会让我们未来变得更好！
   
   
  
