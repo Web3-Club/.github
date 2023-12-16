@@ -57,7 +57,7 @@
 <a href="https://github.com/Web3-Club/Intro./blob/main/Join%20club.md" target=_blank>
   
 # 加入我们的交流群 & 商务合作
-WeChat ID: YanboAtWeb3
+微信号: YanboAtWeb3
 
 <br>
 <br>
