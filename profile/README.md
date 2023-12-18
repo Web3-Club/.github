@@ -34,13 +34,6 @@
 
 
 
-## 我们的频道
-
-### [知乎](https://www.zhihu.com/people/web3club)
-
-### [Twitter](https://twitter.com/Web3ClubCN)
-
-### [Bilibili](https://b23.tv/wMGbq3K)
 
 
 ## 我们的未来项目计划
@@ -79,6 +72,11 @@
 
 ### 加入我们的交流群 & 商务合作
 微信号: YanboAtWeb3
+
+
+### [知乎](https://www.zhihu.com/people/web3club)
+
+### [Bilibili](https://b23.tv/wMGbq3K)
 
 <br>
 <br>
