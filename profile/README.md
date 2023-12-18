@@ -56,7 +56,15 @@
 
 <a href="https://github.com/Web3-Club/Intro./blob/main/Join%20club.md" target=_blank>
   
-# 加入我们的交流群 & 商务合作
+
+## Contect | 联系方式
+
+[![Twitter](https://img.shields.io/badge/@Web3Club-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Web3ClubCN)
+[![Telegram](https://img.shields.io/badge/@Web3Club-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Web3ClubCN)
+[![Mail](https://img.shields.io/badge/web3clubCN@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:web3clubCN@outlook.com)
+
+
+加入我们的交流群 & 商务合作
 微信号: YanboAtWeb3
 
 <br>
