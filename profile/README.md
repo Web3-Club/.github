@@ -1,4 +1,12 @@
-# Web3 Club @🇨🇳
+ <h1 align="center">
+  Web3 Club 
+</h1>
+
+
+<h1 align="center">
+  <img alt="4CD0E01C-46CC-4FFC-8435-00A28416B502" height="200" src="https://user-images.githubusercontent.com/76860915/220155724-ac051c69-c54d-470d-b2b9-5e5855c1abdd.jpeg" width="200"/>
+
+</h1>
 
 <img alt="4CD0E01C-46CC-4FFC-8435-00A28416B502" height="200" src="https://user-images.githubusercontent.com/76860915/220155724-ac051c69-c54d-470d-b2b9-5e5855c1abdd.jpeg" width="200"/>
 
