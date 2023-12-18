@@ -70,13 +70,15 @@
 [![Mail](https://img.shields.io/badge/web3clubCN@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:web3clubCN@outlook.com)
 
 
-### 加入我们的交流群 & 商务合作
-微信号: YanboAtWeb3
-
 
 ### [知乎](https://www.zhihu.com/people/web3club)
 
 ### [Bilibili](https://b23.tv/wMGbq3K)
+
+
+### 加入我们的交流群 & 商务合作
+微信号: YanboAtWeb3
+
 
 <br>
 <br>
