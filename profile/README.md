@@ -1,5 +1,5 @@
  <h1 align="center">
-  Web3 Club 
+  Web3Club 
 </h1>
 
 
