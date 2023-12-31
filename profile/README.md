@@ -76,7 +76,7 @@
 ### [Bilibili](https://b23.tv/wMGbq3K)
 
 ## 资金公开
-         0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb
+     0x663D5Dafe4362927E6dab344e8953b0Ad4439d3F
 
 
 ### 加入我们的交流群 & 商务合作
