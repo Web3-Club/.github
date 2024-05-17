@@ -63,16 +63,6 @@
   
 
 
-
-
-### [知乎](https://www.zhihu.com/people/web3club)
-
-### [Bilibili](https://b23.tv/wMGbq3K)
-
-## 资金公开
-     0x663D5Dafe4362927E6dab344e8953b0Ad4439d3F
-
-
 ### 加入我们的交流群 & 合作
 微信号: YanboAtWeb3
 
