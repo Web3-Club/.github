@@ -2,9 +2,8 @@
   Web3Club 
 </h1>
 
-
-<h1 align="center">
-  <img alt="4CD0E01C-46CC-4FFC-8435-00A28416B502" height="200" src="https://user-images.githubusercontent.com/76860915/220155724-ac051c69-c54d-470d-b2b9-5e5855c1abdd.jpeg" width="200"/>
+  
+![Web3Club横版](https://github.com/Web3-Club/.github/assets/76860915/875d7fe1-a3b6-4351-ad18-51b056c464cc)
 
 </h1>
 
