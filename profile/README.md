@@ -1,6 +1,4 @@
- <h1 align="center">
-  Web3Club 
-</h1>
+
 
   
 ![Web3Club横版](https://github.com/Web3-Club/.github/assets/76860915/875d7fe1-a3b6-4351-ad18-51b056c464cc)
